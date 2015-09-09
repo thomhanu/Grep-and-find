@@ -33,7 +33,7 @@ Grep viết tắt của "Global Regular Expression Print", là lệnh tìm kiế
    
 ```sh
  # grep -i eth0 /etc/network/interfaces
- ```
+```
 - Đếm số lần xuất hiện của từ tìm kiếm trong file:
 ```sh
  # grep -c eth0 /etc/network/interfaces
