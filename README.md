@@ -26,9 +26,9 @@ Grep viết tắt của "Global Regular Expression Print", là lệnh tìm kiế
   <img src  = "http://i.imgur.com/Hl9htAX.png">
   
 - Tìm kiếm từ trong file:
- ```sh
+```sh
   # grep eth0 /etc/network/interfaces
- ```
+```
  Nếu không nhớ chính xác là từ viết hoa hay không viết hoa thì sử dụng *-i*
    
 ```sh
